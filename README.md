@@ -1,8 +1,8 @@
-#Webpack Starter
+# Webpack Starter
 
 Proyecto inicial de conocimiento webpack.
 
-###Notas
+## #Notas
 Recuerden reconstruir los modulos de note
 
 ```
