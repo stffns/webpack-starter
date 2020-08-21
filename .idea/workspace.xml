@@ -74,7 +74,7 @@
       <updated>1597873080615</updated>
       <workItem from="1597873081635" duration="10318000" />
       <workItem from="1598011666207" duration="14602000" />
-      <workItem from="1598048484271" duration="482000" />
+      <workItem from="1598048484271" duration="1184000" />
     </task>
     <servers />
   </component>
@@ -85,6 +85,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="438" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598049524228">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="438" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1598049524228" />
     <state width="1328" height="179" key="GridCell.Tab.0.bottom" timestamp="1598016269800">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
